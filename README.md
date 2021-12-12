@@ -219,6 +219,6 @@ Hi BLOC contributor, thanks for forking and sending back Pull Requests. Extensiv
 // Copyright (c) 2014-2018, The Monero Project
 // Copyright (c) 2018, The TurtleCoin Developers
 // Copyright (c) 2018, The BLOC Developers
-// 
+// Copyright (c) 2022, BlocProtocol Developers
 // Please see the included LICENSE file for more information.
 ```
