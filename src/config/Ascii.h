@@ -15,6 +15,8 @@ const std::string windowsAsciiArt =
         " ######  ####### #######  #####  ### #     # ####### #     # #######    #    \n"
         "__________________________________________________________________________\n"
         "MAIN-NET address start with abLoc\n";
+        "Website www.blocprotocol.network\n";
+        "Github www.github.com/BlocProtocol\n";
 
 const std::string nonWindowsAsciiArt = 
       "\n                                                                            \n"
@@ -29,6 +31,8 @@ const std::string nonWindowsAsciiArt =
         "║║║╠═╣║║║║───║║║║╣  ║ \n"
         "╩ ╩╩ ╩╩╝╚╝   ╝╚╝╚═╝ ╩ \n"
         "MAIN-NET address start with abLoc\n"
+        "Website www.blocprotocol.network\n";
+        "Github www.github.com/BlocProtocol\n";
         "___________________________________________\n"
         "╦╔╗╔  ╔╗ ╦  ╔═╗╔═╗  ╦ ╦╔═╗  ╔╦╗╦═╗╦ ╦╔═╗╔╦╗\n"
         "║║║║  ╠╩╗║  ║ ║║    ║║║║╣    ║ ╠╦╝║ ║╚═╗ ║ \n"
