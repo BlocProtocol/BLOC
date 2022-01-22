@@ -1,13 +1,13 @@
 #define STR_HELPER(x) #x
 #define STR(x) STR_HELPER(x)
 
-#define PROJECT_NAME "BLOC"
-#define PROJECT_SITE "http://www.bloc.money"
-#define PROJECT_COPYRIGHT "Copyright 2019, The BLOC Developers"
+#define PROJECT_NAME "BLOC "
+#define PROJECT_SITE "https://blocprotocol.network/"
+#define PROJECT_COPYRIGHT "Copyright 2022, BlocProtocol Developers"
 #define APP_VER_MAJOR 3
 #define APP_VER_MINOR 5
 #define APP_VER_REV 1
-#define APP_VER_BUILD 3
+#define APP_VER_BUILD 4
 
 #define BUILD_COMMIT_ID "@VERSION@"
 #define PROJECT_VERSION STR(APP_VER_MAJOR) "." STR(APP_VER_MINOR) "." STR(APP_VER_REV)
