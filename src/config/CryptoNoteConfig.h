@@ -262,7 +262,7 @@ const static   boost::uuids::uuid CRYPTONOTE_NETWORK         =
 
 const char* const SEED_NODES[] = {
 	"uk.theblocmoney.com:2082",//UK 
-	"node.pool.gntl.co.uk:2082"//UK
+	"node.pool.gntl.co.uk:2082,"//UK
 	"161.97.162.133:2082"//Germany
 };
 } // CryptoNote
