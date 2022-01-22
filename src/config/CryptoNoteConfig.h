@@ -2,7 +2,7 @@
 // Copyright (c) 2014-2018, The Monero Project
 // Copyright (c) 2018, The TurtleCoin Developers
 // Copyright (c) 2018, The BLOC Developers
-//
+// Copyright (c) 2022, Bloc Protocol Developers
 // Please see the included LICENSE file for more information.
 
 #pragma once
@@ -253,8 +253,8 @@ const uint64_t DATABASE_READ_BUFFER_MB_DEFAULT_SIZE          = 10;
 const uint32_t DATABASE_DEFAULT_MAX_OPEN_FILES               = 100;
 const uint16_t DATABASE_DEFAULT_BACKGROUND_THREADS_COUNT     = 2;
 
-const char     LATEST_VERSION_URL[]                          = "https://bloc.money/download";
-const std::string LICENSE_URL                                = "https://github.com/furiousteam/BLOC/blob/master/LICENSE";
+const char     LATEST_VERSION_URL[]                          = "https://blocprotocol.network/downloads";
+const std::string LICENSE_URL                                = "https://github.com/BlocProtocol/BLOC/blob/master/LICENSE";
 const static   boost::uuids::uuid CRYPTONOTE_NETWORK         =
 {
     {  0x21, 0x21, 0x32, 0xf2, 0x2f, 0x29, 0x2c, 0x23, 0x22, 0x8f, 0x8c, 0x12, 0x37, 0x27, 0x9d, 0x98  }
@@ -263,5 +263,6 @@ const static   boost::uuids::uuid CRYPTONOTE_NETWORK         =
 const char* const SEED_NODES[] = {
 	"uk.theblocmoney.com:2082",//UK 
 	"node.pool.gntl.co.uk:2082"//UK
+	"161.97.162.133:2082"//Germany
 };
 } // CryptoNote
